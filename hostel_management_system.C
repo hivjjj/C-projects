@@ -1,3 +1,4 @@
+//--- user name = pass     and password =  pass
 //-----start including header files-----
 #include<stdio.h>
 #include<stdlib.h>
